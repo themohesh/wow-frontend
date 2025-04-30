@@ -57,7 +57,7 @@ export default tseslint.config({
 
 Clone the repository
 
-git clone https://github.com/yourusername/job-match-frontend.git
+git clone https://github.com/themohesh/wow-frontend.git
 
 ## Install dependencies
 
